@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Optimized Route</h1>
+<ul>
+  {% for city in optimized_route %}
+    <li>{{ city.name }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}

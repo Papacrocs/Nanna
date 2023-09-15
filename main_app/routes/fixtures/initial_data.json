@@ -1,0 +1,101 @@
+[
+    {
+        "model": "routes.state",
+        "pk": 1,
+        "fields": {
+            "name": "Lagos",
+            "latitude": 6.465422,
+            "longitude": 3.406448
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 12,
+        "fields": {
+            "name": "Victoria Island",
+            "latitude": 6.426058,
+            "longitude": 3.426329,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 13,
+        "fields": {
+            "name": "Lekki",
+            "latitude": 6.428055,
+            "longitude": 3.594243,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 14,
+        "fields": {
+            "name": "Apapa",
+            "latitude": 6.445187,
+            "longitude": 3.364318,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 15,
+        "fields": {
+            "name": "Yaba",
+            "latitude": 6.493061,
+            "longitude": 3.383069,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 16,
+        "fields": {
+            "name": "Surulere",
+            "latitude": 6.500059,
+            "longitude": 3.349080,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 17,
+        "fields": {
+            "name": "Ikorodu",
+            "latitude": 6.619426,
+            "longitude": 3.508571,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 18,
+        "fields": {
+            "name": "Epe",
+            "latitude": 6.583333,
+            "longitude": 3.983333,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 19,
+        "fields": {
+            "name": "Badagry",
+            "latitude": 6.438554,
+            "longitude": 2.907699,
+            "state": 1
+        }
+    },
+    {
+        "model": "routes.city",
+        "pk": 20,
+        "fields": {
+            "name": "Ajah",
+            "latitude": 6.473048,
+            "longitude": 3.569862,
+            "state": 1
+        }
+    }
+]
